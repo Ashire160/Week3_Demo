@@ -17,6 +17,7 @@ public class Week3_Demo {
         // TODO code application logic here
         System.out.println("Change");
         //Trying Fetch and Merge
+        System.out.println("Week3Branch Change");
     }
     
 }
